@@ -22,11 +22,11 @@ How to install dependencies
 1. Open Terminal and navigate to the folder in which you want to store the
 framework, and copy paste the link below (with HTTPS path):
 ```shell
-git clone https://github.com/
+git clone https://github.com/hemasurendra/tommy-hilfiger-ui-tests.git
 ```
 2. Navigate into the downloaded "wdio-test-automation" repository folder
 ```shell
-cd **********
+cd tommy-hilfiger-ui-tests
 ```
 
 3. Install all required dependencies using:
